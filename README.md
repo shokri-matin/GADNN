@@ -1,6 +1,6 @@
 # GADNN
 
-A solution representation of genetic algorithm for neural network weights and structure
+# A solution representation of genetic algorithm for neural network weights and structure
 
 This paper presents a new solution representation for genetic algorithm to optimize the
 neural network model. During the optimization process, the weights, biases and structure
